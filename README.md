@@ -73,7 +73,7 @@ on:
     - release/v*
 ```
 
-or on various [events](https://help.github.com/en/articles/events-that-trigger-workflows)
+or on various [events](https://help.github.com/en/articles/events-that-trigger-workflows).
 
 <br>
 
